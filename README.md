@@ -65,7 +65,7 @@
 <li>Actualizar topico por ID</li>
 <p>PUT /topicos/id - Actualiza topico por ID, valida si el title y message ya existen en la base de datos.</p>
 <li>Eliminar topico por ID</li>
-<p>DELETE /topicos/id - Elimina el topico por ID, </p>
+<p>DELETE /topicos/id - Elimina el topico por ID.</p>
 </ol>
 <img src="./images/forohub.gif" alt="Funcionalidades de literbook, libros consumo de API"/>
 </section>
